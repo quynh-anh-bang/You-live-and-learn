@@ -1,0 +1,76 @@
+body{
+    /*background-color: #181818; 
+    color:#fff;  */ 
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 400;    
+    font-style: normal;
+    
+    line-height: 1.5;
+    text-align:center;
+}
+h1, h2, h3, h4, h5, h6, header nav a{
+ font-family: nunito, sans-serif;
+ 
+}
+/*start nav bar*/
+#mainwrapper header {
+	/*Header */
+	background-color: #FFFFFF;
+	overflow: auto;
+}
+#mainwrapper header #logo {
+	/* Company Logo text */
+	width: 28%;
+	float: left;
+	padding-left: 2%;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-weight: 700;    
+}
+#mainwrapper header nav {
+	/*Nav bar containing links in header */
+	text-align: right;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-right: 2%;
+	width: 68%;
+	float: left;
+}
+header nav a {
+	/* Links in header */
+	padding-right: 2%;
+    color: #000;
+  
+    
+}
+
+/*end nav bar*/
+
+a:hover{
+    color: mediumslateblue;
+}
+.tags{
+    list-style: none;
+}
+/*end sidebar, start page */
+#content #mainContent p {
+	color: #000;
+	padding-left: 2%;
+	padding-top: 11px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 400;    
+    font-style: normal;
+}
+#content #mainContent #authorInfo p {
+	color: #000;
+	padding-left: 2%;
+	padding-top: 0px;
+	padding-bottom: 11px;
+	padding-right: 2%;
+}
+
+
+
+
+
+
