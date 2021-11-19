@@ -45,9 +45,11 @@ header nav a {
 }
 
 /*end nav bar*/
-
+#mainContent a{
+	color: #4169e1;
+}
 a:hover{
-    color: mediumslateblue;
+    color: lime;
 }
 .tags{
     list-style: none;
