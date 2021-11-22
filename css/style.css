@@ -11,7 +11,12 @@ body{
 h1, h2, h3, h4, h5, h6{
  font-family: nunito, sans-serif;
 }
-
+h1{
+    margin-top: 2.5%;
+}
+.nav{
+    border: 1px solid black;
+}
 .nav-link{
     color: #000;
     font-family: nunito, sans-serif;
@@ -35,6 +40,7 @@ article{
     font-family: 'IBM Plex Mono', monospace;
     font-weight: 400;    
     font-style: normal;
+    /*border: 1px solid black;*/
 }
 
 
