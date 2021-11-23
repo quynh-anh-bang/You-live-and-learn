@@ -42,6 +42,9 @@ article{
     font-style: normal;
     /*border: 1px solid black;*/
 }
+.card{
+    border: 1px solid #000;
+}
 
 
 
